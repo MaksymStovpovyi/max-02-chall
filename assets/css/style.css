@@ -87,6 +87,12 @@ menu ul li:hover {
     border-left: 5px solid black;
 }
 
+.abt_me img {
+    height: 180px;
+    float: left;
+    margin-right: 15px;
+}
+
 .abt_me p {
     font-size: 28px;
     margin-bottom: 25px;
