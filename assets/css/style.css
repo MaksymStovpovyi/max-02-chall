@@ -159,7 +159,8 @@ menu ul li:hover {
 }
 
 .work_box_2 {
-    background-image: url("../img/box_2.jpeg");
+    background-image: url("../img/project2.png");
+    background-size: 100%;
     min-height: 200px;
 }
 
